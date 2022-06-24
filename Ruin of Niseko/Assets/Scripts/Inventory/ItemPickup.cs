@@ -5,10 +5,18 @@ using UnityEngine;
 public class ItemPickup : MonoBehaviour
 {
     public ItemObject item;
+    GameObject inventoryManagerObject;
+    InventoryManager inventoryManager;
+
+    public void Awake()
+    {
+        inventoryManagerObject = GameObject.Find("InventoryManager");
+        inventoryManager = inventoryManagerObject.GetComponent<InventoryManager>();
+    }
 
     public void Pickup()
     {
-        InventoryManager.Instance.AddItem(item);
+        inventoryManager.AddItem(item);
         Destroy(gameObject);
     }
 

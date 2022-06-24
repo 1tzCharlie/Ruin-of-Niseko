@@ -16,6 +16,8 @@ public class InventoryManager : MonoBehaviour
     public GameObject huds;
     public GameObject backgrounds;
 
+    ItemObject mainItem;
+
     private void Awake()
     {
         Instance = this;
@@ -60,6 +62,11 @@ public class InventoryManager : MonoBehaviour
     public void RemoveItem(ItemObject item)
     {
         items.Remove(item);
+    }
+
+    public void SetMainItem(ItemObject item)
+    {
+        mainItem = item;
     }
 
     public void ListItems()

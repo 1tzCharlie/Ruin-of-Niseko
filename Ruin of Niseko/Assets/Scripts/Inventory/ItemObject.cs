@@ -7,6 +7,7 @@ public class ItemObject : ScriptableObject
 {
     public string itemName;
     public Sprite icon;
+    public GameObject model;
 
     public int baseDamage;
     public int baseSpeed;

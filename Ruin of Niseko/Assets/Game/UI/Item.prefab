@@ -210,7 +210,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: eab62ee69a012c14cbba7b698a45a1ab, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  itemIcon: {fileID: 3778905352378821161}
 --- !u!114 &7971736308650969659
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -230,7 +229,7 @@ MonoBehaviour:
         m_Calls:
         - m_Target: {fileID: 6298804495578532141}
           m_TargetAssemblyTypeName: ItemUIScript, Assembly-CSharp
-          m_MethodName: UpdateImage
+          m_MethodName: UpdateItemAndImage
           m_Mode: 1
           m_Arguments:
             m_ObjectArgument: {fileID: 0}

@@ -15,6 +15,7 @@ MonoBehaviour:
   itemName: Pyromancy Staff
   icon: {fileID: 21300000, guid: 1655420ce5c391c4fa3c34e33d5f94bc, type: 3}
   model: {fileID: 919132149155446097, guid: 89464984eec14874db23701307d82268, type: 3}
+  magic: 0
   baseDamage: 10
   baseSpeed: 5
   isStaff: 1

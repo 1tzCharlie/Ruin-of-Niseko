@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a555732e08ddc144b5ae0fef1a8108a, type: 3}
+  m_Name: Voodoo Doll
+  m_EditorClassIdentifier: 
+  spellName: Voodoo Doll
+  description: 'Stab a voodoo doll with a needle to instantly damage the closest
+    enemy for a reasonably high amount of damage. This spell is quick, but stops
+    the player for about half a second to perform the stabbing animation. Bone Restructure:
+    telekinetically snap an enemies bone. Essentially a glorified voodoo doll with
+    some tweaked stats. Each hit stuns the enemy and it hits up to 3 enemies. Poison:
+    throw out a quick needle imbued with poison to deal damage over time to enemies.
+    Inflicts a poison effect (weak damage over time).'
+  damage: 17
+  speed: 1
+  isDefaultSpell: 1
+  isPyromancy: 0
+  isCryomancy: 0
+  isNecromancy: 0
+  isVoodoo: 1
+  isAthamancy: 0
+  isInstantiate: 0
+  bullet: {fileID: 0}
+  isRaycast: 0
+  spellAnim: {fileID: 0}
+  impactAnim: {fileID: 0}
+  secondaryAbility: 7
+  poisonDamage: 0
+  enemyRadarRadius: 5

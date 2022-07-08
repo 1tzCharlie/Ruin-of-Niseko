@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a555732e08ddc144b5ae0fef1a8108a, type: 3}
+  m_Name: Soul Sickle
+  m_EditorClassIdentifier: 
+  spellName: Soul Sickle
+  description: "Throws out a basic sickle that goes in a straight line and doesn\u2019t
+    act like a boomerang. Default necromancy spell."
+  spellAnim: []
+  impactAnim: []
+  damageMultiplier: 1
+  speedMultiplier: 1
+  isDefaultSpell: 1
+  isPyromancy: 0
+  isCryomancy: 0
+  isNecromancy: 1
+  isVoodoo: 0
+  isAthamancy: 0

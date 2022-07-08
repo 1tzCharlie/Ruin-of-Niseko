@@ -1,0 +1,753 @@
+fileFormatVersion: 2
+guid: 7b4309d2c16dde8478b08944d42b1cef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3875788430874105447
+    second: Player_0
+  - first:
+      213: -1583895139072039799
+    second: Player_1
+  - first:
+      213: -5790119276200141933
+    second: DungeonTileset1_13
+  - first:
+      213: -6384584795713857477
+    second: DungeonTileset1_14
+  - first:
+      213: 4182949270851127459
+    second: DungeonTileset1_15
+  - first:
+      213: 1124952404142707995
+    second: DungeonTileset1_16
+  - first:
+      213: -1852320544417633825
+    second: DungeonTileset1_17
+  - first:
+      213: 1583832370557337057
+    second: DungeonTileset1_18
+  - first:
+      213: 4658192196547199490
+    second: DungeonTileset1_19
+  - first:
+      213: 7580478259227935923
+    second: DungeonTileset1_101
+  - first:
+      213: -8541320874046205421
+    second: DungeonTileset1_102
+  - first:
+      213: -1375948988001400695
+    second: DungeonTileset1_103
+  - first:
+      213: -254339681683141538
+    second: DungeonTileset1_104
+  - first:
+      213: -2692502486778884009
+    second: DungeonTileset1_105
+  - first:
+      213: -6628961317570666846
+    second: DungeonTileset1_106
+  - first:
+      213: 758139569837590833
+    second: DungeonTileset1_107
+  - first:
+      213: 4651552603390333105
+    second: DungeonTileset1_108
+  - first:
+      213: -8027928002507607408
+    second: DungeonTileset1_109
+  - first:
+      213: 8900419262308020816
+    second: DungeonTileset1_110
+  - first:
+      213: 4904637901132785989
+    second: DungeonTileset1_111
+  - first:
+      213: -8408303923287331361
+    second: DungeonTileset1_112
+  - first:
+      213: 8690721263588973976
+    second: DungeonTileset1_113
+  - first:
+      213: -1138086920917547426
+    second: DungeonTileset1_126
+  - first:
+      213: -4862124243408308892
+    second: DungeonTileset1_128
+  - first:
+      213: -5006503768277455755
+    second: DungeonTileset1_120
+  - first:
+      213: 3706632405303843047
+    second: DungeonTileset1_127
+  - first:
+      213: 166380452037121459
+    second: DungeonTileset1_129
+  - first:
+      213: 2900013555836922264
+    second: DungeonTileset1_130
+  - first:
+      213: -1349317130445185627
+    second: DungeonTileset1_131
+  - first:
+      213: 3283207514557760494
+    second: DungeonTileset1_132
+  - first:
+      213: -2240342632150773685
+    second: DungeonTileset1_133
+  - first:
+      213: 5120649789644046279
+    second: DungeonTileset1_134
+  - first:
+      213: -28954250218619350
+    second: DungeonTileset1_135
+  - first:
+      213: -3950716272147375822
+    second: DungeonTileset1_136
+  - first:
+      213: -1622598580316223860
+    second: DungeonTileset1_137
+  - first:
+      213: -3474765778398948318
+    second: DungeonTileset1_138
+  - first:
+      213: -5819684078286423312
+    second: DungeonTileset1_139
+  - first:
+      213: -3905749405428120146
+    second: DungeonTileset1_140
+  - first:
+      213: -9123866697494757743
+    second: DungeonTileset1_141
+  - first:
+      213: -6704016150952254181
+    second: DungeonTileset1_142
+  - first:
+      213: -8013363468794239952
+    second: DungeonTileset1_143
+  - first:
+      213: -1900736851745777036
+    second: DungeonTileset1_144
+  - first:
+      213: 3841542526584021837
+    second: DungeonTileset1_145
+  - first:
+      213: 3665570206590532904
+    second: DungeonTileset1_146
+  - first:
+      213: -573230470567984462
+    second: DungeonTileset1_147
+  - first:
+      213: -7436875863092105327
+    second: DungeonTileset1_148
+  - first:
+      213: -9175121006542986082
+    second: DungeonTileset1_149
+  - first:
+      213: 3002498659702022485
+    second: DungeonTileset1_150
+  - first:
+      213: -4453343746368753318
+    second: DungeonTileset1_151
+  - first:
+      213: 7955471395397326935
+    second: DungeonTileset1_152
+  - first:
+      213: -1824392152916769320
+    second: DungeonTileset1_153
+  - first:
+      213: -711677503459628611
+    second: DungeonTileset1_154
+  - first:
+      213: -3488217958440995872
+    second: DungeonTileset1_155
+  - first:
+      213: 5000403957072836464
+    second: DungeonTileset1_156
+  - first:
+      213: 3906318787517503161
+    second: DungeonTileset1_157
+  - first:
+      213: 3004494217869035697
+    second: DungeonTileset1_158
+  - first:
+      213: -5958845216752435907
+    second: DungeonTileset1_159
+  - first:
+      213: 7303151786711447424
+    second: DungeonTileset1_160
+  - first:
+      213: -5692917110095071257
+    second: DungeonTileset1_161
+  - first:
+      213: -3891055081665254521
+    second: DungeonTileset1_162
+  - first:
+      213: 5649441797764323476
+    second: DungeonTileset1_163
+  - first:
+      213: -2479308170629226157
+    second: DungeonTileset1_164
+  - first:
+      213: 1833995026650260120
+    second: DungeonTileset1_165
+  - first:
+      213: 4415962811988308263
+    second: DungeonTileset1_166
+  - first:
+      213: -364753176457908946
+    second: DungeonTileset1_114
+  - first:
+      213: 2923800667727214045
+    second: DungeonTileset1_115
+  - first:
+      213: -6898664190571051341
+    second: DungeonTileset1_116
+  - first:
+      213: -167745824270478600
+    second: DungeonTileset1_167
+  - first:
+      213: 6964497048071240667
+    second: DungeonTileset1_168
+  - first:
+      213: 2539792761697130283
+    second: DungeonTileset1_169
+  - first:
+      213: 5603590065712747199
+    second: DungeonTileset1_170
+  - first:
+      213: -2801939481909729253
+    second: DungeonTileset1_171
+  - first:
+      213: 6700049261270361525
+    second: DungeonTileset1_172
+  - first:
+      213: -6941076493737053067
+    second: DungeonTileset1_173
+  - first:
+      213: 5550151856703422806
+    second: DungeonTileset1_174
+  - first:
+      213: 874029403004446020
+    second: DungeonTileset1_175
+  - first:
+      213: -6503384254063743629
+    second: DungeonTileset1_176
+  - first:
+      213: -6007113972963030070
+    second: DungeonTileset1_177
+  - first:
+      213: 9143865448092166262
+    second: DungeonTileset1_178
+  - first:
+      213: 1094353704573454883
+    second: DungeonTileset1_179
+  - first:
+      213: -795060818561826303
+    second: DungeonTileset1_180
+  - first:
+      213: 5997369540077010524
+    second: DungeonTileset1_181
+  - first:
+      213: 7732125802523662987
+    second: DungeonTileset1_182
+  - first:
+      213: -3127461933305812356
+    second: DungeonTileset1_183
+  - first:
+      213: -3766395046690504167
+    second: DungeonTileset1_184
+  - first:
+      213: -7116847328588203421
+    second: DungeonTileset1_185
+  - first:
+      213: -8225925684656384671
+    second: DungeonTileset1_186
+  - first:
+      213: 3731978241376220478
+    second: DungeonTileset1_187
+  - first:
+      213: -8585852180868351293
+    second: DungeonTileset1_188
+  - first:
+      213: -708243493722065894
+    second: DungeonTileset1_189
+  - first:
+      213: 6397620488676513322
+    second: DungeonTileset1_190
+  - first:
+      213: 2168417983160151082
+    second: DungeonTileset1_191
+  - first:
+      213: 205901144554640983
+    second: DungeonTileset1_192
+  - first:
+      213: -4876456083603551293
+    second: DungeonTileset1_193
+  - first:
+      213: 6579669344885516856
+    second: DungeonTileset1_194
+  - first:
+      213: -4615727175860271235
+    second: DungeonTileset1_195
+  - first:
+      213: 4110791583893491128
+    second: DungeonTileset1_196
+  - first:
+      213: 7382789798536763769
+    second: DungeonTileset1_197
+  - first:
+      213: 2481236162414862569
+    second: DungeonTileset1_198
+  - first:
+      213: -8039720165042500640
+    second: DungeonTileset1_199
+  - first:
+      213: 2679216686511732303
+    second: DungeonTileset1_200
+  - first:
+      213: 6663491568484525423
+    second: DungeonTileset1_201
+  - first:
+      213: -160773776902466431
+    second: DungeonTileset1_202
+  - first:
+      213: 1939346144116866239
+    second: Key_Yellow
+  - first:
+      213: 6626712050890009523
+    second: MyTilesets_1
+  - first:
+      213: 5583043193739105246
+    second: MyTilesets_2
+  - first:
+      213: -983414355866367412
+    second: MyTilesets_3
+  - first:
+      213: -4928238917766081845
+    second: MyTilesets_4
+  - first:
+      213: 5591902496429324480
+    second: MyTilesets_5
+  - first:
+      213: 7406152386783577825
+    second: MyTilesets_6
+  - first:
+      213: -2019068454681295072
+    second: MyTilesets_7
+  - first:
+      213: 8489210038131637947
+    second: MyTilesets_8
+  - first:
+      213: -8430960036657818777
+    second: MyTilesets_9
+  - first:
+      213: -4407377671196389368
+    second: Key_Red
+  - first:
+      213: -712063951443006038
+    second: Key_Green
+  - first:
+      213: -5448169564495999927
+    second: MyTilesets_12
+  - first:
+      213: -4719087193620355989
+    second: MyTilesets_13
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Key_Yellow
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbcfb900b01f9ea10800000000000000
+      internalID: 1939346144116866239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyTilesets_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bb691e108fc6fb50800000000000000
+      internalID: 6626712050890009523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyTilesets_2
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed35b785434fa7d40800000000000000
+      internalID: 5583043193739105246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyTilesets_3
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ac09b8ad53a52f0800000000000000
+      internalID: -983414355866367412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyTilesets_4
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc21c42b0d06b9bb0800000000000000
+      internalID: -4928238917766081845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyTilesets_5
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c83a4e71bd6a9d40800000000000000
+      internalID: 5591902496429324480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyTilesets_6
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e685a63b50f7c660800000000000000
+      internalID: 7406152386783577825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyTilesets_7
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027468d10f3daf3e0800000000000000
+      internalID: -2019068454681295072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyTilesets_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbe348a4d8bbfc570800000000000000
+      internalID: 8489210038131637947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyTilesets_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7631f7b04863ffa80800000000000000
+      internalID: -8430960036657818777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_Red
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800d95dfb59d5d2c0800000000000000
+      internalID: -4407377671196389368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Key_Green
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aade0ecdb9d3e16f0800000000000000
+      internalID: -712063951443006038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyTilesets_12
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 240
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c0f1095a63464b0800000000000000
+      internalID: -5448169564495999927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: MyTilesets_13
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b64e920433f628eb0800000000000000
+      internalID: -4719087193620355989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

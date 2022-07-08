@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a555732e08ddc144b5ae0fef1a8108a, type: 3}
+  m_Name: Teleport
+  m_EditorClassIdentifier: 
+  spellName: Teleport
+  description: Teleport yes
+  damage: 12
+  speed: 1
+  isDefaultSpell: 0
+  isPyromancy: 0
+  isCryomancy: 0
+  isNecromancy: 0
+  isVoodoo: 1
+  isAthamancy: 0
+  isInstantiate: 0
+  bullet: {fileID: 0}
+  isRaycast: 0
+  spellAnim: {fileID: 0}
+  impactAnim: {fileID: 0}
+  secondaryAbility: 5
+  poisonDamage: 0
+  enemyRadarRadius: 10
+  controlTime: 0
+  leechHealth: 0

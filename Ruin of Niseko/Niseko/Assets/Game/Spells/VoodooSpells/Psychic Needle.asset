@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4a555732e08ddc144b5ae0fef1a8108a, type: 3}
+  m_Name: Psychic Needle
+  m_EditorClassIdentifier: 
+  spellName: Psychic Needle
+  description: Throw out a needle attached to the player by a string. Whatever direction
+    the player moves in will change the direction of the needle, however, it will
+    continue moving in a straight line whether or not the player is moving. Only
+    one needle can be thrown out at one time. The spell pierces enemies 5 times allowing
+    for simple combos. Default spell for voodoo mage.
+  damage: 1
+  speed: 1
+  isDefaultSpell: 1
+  isPyromancy: 0
+  isCryomancy: 0
+  isNecromancy: 0
+  isVoodoo: 1
+  isAthamancy: 0
+  isInstantiate: 1
+  bullet: {fileID: 1051846702148342893, guid: 22895b79771dd6844ae563c7d2566f6f, type: 3}
+  isRaycast: 0
+  spellAnim: {fileID: 0}
+  impactAnim: {fileID: 1125615709120751371, guid: 4371351c67d481f4c9db7d6169d1d02e, type: 3}
+  secondaryAbility: 0
+  poisonDamage: 0
+  enemyRadarRadius: 0
